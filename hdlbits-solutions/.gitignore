@@ -1,0 +1,8 @@
+*.vvp
+*.vcd
+*.out
+work/
+xsim.dir/
+*.jou
+*.log
+.DS_Store
